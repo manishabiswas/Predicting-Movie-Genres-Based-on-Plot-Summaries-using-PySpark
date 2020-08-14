@@ -23,5 +23,4 @@ PART 3 - Custom Feature Engineering <br>
 ○ Glove<br>
 ○ Doc2vec<br>
 ○ Topic Modelling<br>
-● Custom feature engineering would be deemed successful only if the model performs
-better than the model of part 2
+
